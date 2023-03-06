@@ -1,6 +1,6 @@
-# GameJamSigns
+# My Game Jam Project for the Theme: Signs
 
-All information about the Porject is on this Github Page
+All information about the Project is on this Github Page
 
 Youtube Video: https://youtu.be/RBwIvghLUwc
 
